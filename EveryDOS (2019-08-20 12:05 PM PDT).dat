@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>DOS Games List</name>
+		<description>DOS Games List by EveryDOS</description>
+		<date>2019-08-20 12:05 PM PDT</date> //need UTC info for all timestamps
+		<author>EveryDOS</author>
+		<contributors>Arctic, Clarissa Walker</contributors>
+	</header>
+	<game name="Adventure Fun-Pak (v1.0) + Puzzle Fun-Pak (v1.0) (2004 Freeware Rerelease)" status="verified">
+		<category>Games</category>
+		<description>Adventure Fun-Pak (v1.0) + Puzzle Fun-Pak (v1.0) (2004 Freeware Rerelease)</description>
+			<rom name="FREEWARE.TXT" size="1128" crc="123d5b0a" md5="f3b1c611598f84852396dae2f01f5a05" sha1="dfc4b2a39d71ab6aee8e0ea69fe8288a2d357472"/>
+			<folder name="ADVPACK" size="207912">
+				<rom name="ADV-MENU.COM" size="13659" crc="688947fe" md5="6380384c0d242244ed19dccae614f985" sha1="3d2072f652c70f532d8130c8e03465cc7ae23f15"/>
+				<rom name="ADV.BAT" size="32" crc="e825b977" md5="b674edb6338e1b489ff32088fc203db6" sha1="27f8bc632f416cddeb2632597ac610dde3048b46"/>
+				<rom name="BOMBER.COM" size="16269" crc="675f994d" md5="5c27afe2409ecbfed3997568ba0d6145" sha1="e7902d2cf75ba65b09db0751a552c02c9c72a5d4"/>
+				<rom name="LIST.COM" size="9209" crc="a072a2c4" md5="6ccc0f8054d8281aadcc06b7e166fd30" sha1="5a352847fdb008e3ec9a36ac3c2c51ff45b142c8"/>
+				<rom name="NOSLOW.COM" size="128" crc="52cee980" md5="9579c1b5f7e98a9fe6b5d2b9818f71d5" sha1="deac21b6dc06f7e2dd25244c505ece923df8ad19"/>
+				<rom name="PASRUN.COM" size="12230" crc="0706fe50" md5="75814cfaca0a90ec58c9e9f80344bfd7" sha1="0a8e9b3864c70d2ab4e437e9efce1afdbc73f702"/>
+				<rom name="RAIDERS.COM" size="25679" crc="943914b7" md5="d85cf217bc8d329341144dc71fc46010" sha1="651a3be2613ed4c86bca4b54608cfdf5be7bb6c1"/>
+				<rom name="RAIDERS.EXE" size="25679" crc="943914b7" md5="d85cf217bc8d329341144dc71fc46010" sha1="651a3be2613ed4c86bca4b54608cfdf5be7bb6c1"/>
+				<rom name="README.TXT" size="8054" crc="3167a0c5" md5="65a611a327a883af776eb4c6e96fabaa" sha1="2b46693cc37b45d1bd84e7fcd4f60e4b682f7ab6"/>
+				<rom name="RESCUE.EXE" size="23912" crc="7b1c8db0" md5="1b4ea1eae735400a615942c129ce1f1c" sha1="06e4f2ce4eb44d2d0224291d28b177ef60ff2dde"/>
+				<rom name="RUNNER.COM" size="23997" crc="6bf7d886" md5="50c18d5c0998169b8d75a0ad28014ba7" sha1="51349dcee7c7f7134a8f5ea117688f593c8abb21"/>
+				<rom name="RUNNER.EXE" size="23997" crc="6bf7d886" md5="50c18d5c0998169b8d75a0ad28014ba7" sha1="51349dcee7c7f7134a8f5ea117688f593c8abb21"/>
+				<rom name="SLOW.COM" size="128" crc="1cebbaf8" md5="8ccc9e598aa49cfaa82dceda9479ca3a" sha1="cfc05dbd163562b8d71913806ecd8cb7f8efb4bc"/>
+				<rom name="SLOW.TXT" size="845" crc="16c2594e" md5="4463f05877269b88b447489253e0455a" sha1="f3f0ee324f019e55076eb7ec0579bf449cbd04f6"/>
+				<rom name="THING.COM" size="24094" crc="7b28c505" md5="ae0c10e707be99ece65f56569ed878d9" sha1="e77c07eba9599301883abe38ba530cbd791d8c49"/>
+			</folder>
+			<folder name="PUZPACK" size="221724">
+				<rom name="ASTEROID.COM" size="23912" crc="7b1c8db0" md5="1b4ea1eae735400a615942c129ce1f1c" sha1="06e4f2ce4eb44d2d0224291d28b177ef60ff2dde"/>
+				<rom name="BLOCK5.COM" size="19841" crc="86586b90" md5="34f30caf78b46eade94d55b6668d485e" sha1="19a646c240c00aa0febc487d8a4b5322939a46f0"/>
+				<rom name="BLOCK5.EXE" size="19841" crc="86586b90" md5="34f30caf78b46eade94d55b6668d485e" sha1="19a646c240c00aa0febc487d8a4b5322939a46f0"/>
+				<rom name="LIST.COM" size="9209" crc="a072a2c4" md5="6ccc0f8054d8281aadcc06b7e166fd30" sha1="5a352847fdb008e3ec9a36ac3c2c51ff45b142c8"/>
+				<rom name="MAZE.COM" size="22201" crc="ef829d59" md5="d4abe45fb759da180e25609a4d58c16a" sha1="d752a61bcf4407a5e48c889121a3ac57f9bb3877"/>
+				<rom name="NOSLOW.COM" size="128" crc="52cee980" md5="9579c1b5f7e98a9fe6b5d2b9818f71d5" sha1="deac21b6dc06f7e2dd25244c505ece923df8ad19"/>
+				<rom name="PASRUN.COM" size="12230" crc="0706fe50" md5="75814cfaca0a90ec58c9e9f80344bfd7" sha1="0a8e9b3864c70d2ab4e437e9efce1afdbc73f702"/>
+				<rom name="PHRASE.COM" size="33803" crc="833f2e0c" md5="4da3cbfa5d6a42ebd440b784fc6757bb" sha1="3b37b8bb023308438e8c4b4f1b403a66cf4aeffb"/>
+				<rom name="PHRASE.EXE" size="33803" crc="833f2e0c" md5="4da3cbfa5d6a42ebd440b784fc6757bb" sha1="3b37b8bb023308438e8c4b4f1b403a66cf4aeffb"/>
+				<rom name="PUZ-MENU.COM" size="13635" crc="6d4f6966" md5="9bcecbfffab839ebe4889526b86fcbdc" sha1="4f48cf64f13366f20d9e9a0b4369df85db93d53f"/>
+				<rom name="PUZZLE.BAT" size="31" crc="4473ac14" md5="50e7eb001929951ec35c04ea0c9d0368" sha1="a20b1cb21ccb76d69225400d2eac5e83a17bc781"/>
+				<rom name="README.TXT" size="8205" crc="2b793099" md5="f9260170838a0de3f750f5b58c93792f" sha1="ce0652ec0c446d5c294f6d8f802fd4225685bbf3"/>
+				<rom name="RESCUE.EXE" size="23912" crc="7b1c8db0" md5="1b4ea1eae735400a615942c129ce1f1c" sha1="06e4f2ce4eb44d2d0224291d28b177ef60ff2dde"/>
+				<rom name="SLOW.COM" size="128" crc="1cebbaf8" md5="8ccc9e598aa49cfaa82dceda9479ca3a" sha1="cfc05dbd163562b8d71913806ecd8cb7f8efb4bc"/>
+				<rom name="SLOW.TXT" size="845" crc="16c2594e" md5="4463f05877269b88b447489253e0455a" sha1="f3f0ee324f019e55076eb7ec0579bf449cbd04f6"/>
+			</folder>
+	</game>
+	<game name="Linux Tycoon (v0.9.1) (Demo)" status="verified">
+		<category>Games</category>
+		<description>Linux Tycoon (v0.9.1) (Demo)</description>
+		<info>Originally distributed at https://lunduke.com/?page_id=2646</info>
+			<folder name="linuxt" size="170324">
+				<rom name="LINUXT.EXE" size="169280" crc="382d6e73" md5="2877b4e93f9a036e1bed954ca924c260" sha1="60a1483150f3f42cf38d6dfc033402e2b9714eac"/>
+				<rom name="README.TXT" size="1044" crc="6bdc580c" md5="e7f79cf7157e8c0980c7748f81292215" sha1="991bb37a3c092562a0ac976a86e2ba79a8eff694"/>
+			</folder>
+	</game>
+	<game name="Monopoly Deluxe (v1.0) (Disk 1 of 3) [bh]" status="bad header">
+		<category>Games</category>
+		<description>Monopoly Deluxe (v1.0) (Disk 1 of 3) [bh]</description>
+		<info>Dumped by Clarissa Walker, OEM header overwritten due to IHC error, needs redump from write-protected disk.</info>
+			<rom name="Monopoly Deluxe (v1.0) (Disk 1 of 3) [bh].img" size="1474560" crc="7667c9be" md5="8feefd49153d9d1fbbcad25eab0bf4f7" sha1="08624fa565b79150eeb6b8d0b293395d7aee4702"/>
+	</game>
+	<game name="Monopoly Deluxe (v1.0) (Disk 2 of 3) [bh]" status="bad header">
+		<category>Games</category>
+		<description>Monopoly Deluxe (v1.0) (Disk 2 of 3) [bh]</description>
+		<info>Dumped by Clarissa Walker, OEM header overwritten due to IHC error, INSTALL.BAT restored with UNDELETE, needs redump from write-protected disk.</info>
+			<rom name="Monopoly Deluxe (v1.0) (Disk 2 of 3) [bh].img" size="1474560" crc="12ceb283" md5="ea2c5c645a6d6ed22ee54a554bfae563" sha1="512b0de59dd36270f56be63e87167402fe8654e3"/>
+	</game>
+	<game name="Monopoly Deluxe (v1.0) (Disk 3 of 3) [bh]" status="bad header">
+		<category>Games</category>
+		<description>Monopoly Deluxe (v1.0) (Disk 3 of 3) [bh]</description>
+		<info>Dumped by Clarissa Walker, OEM header overwritten due to error, needs redump from write-protected disk.</info>
+			<rom name="Monopoly Deluxe (v1.0) (Disk 3 of 3) [bh].img" size="1474560" crc="59a67bc3" md5="8880c88c396bb5ee50b4c95241c9ec73" sha1="6464f0ad4b9bd748e1a869f403b362139a17576a"/>
+	</game>
+</datafile>
